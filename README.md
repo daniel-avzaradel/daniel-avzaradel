@@ -3,7 +3,7 @@
 ##### About me:
 
 - New to web-development and programming technologies.
-- Born in Brazil :brazil:, currently living in Israel. :israel:
+- Born in Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png" width="30" height="20">, currently living in Israel. :israel:
 - Classical musician, pianist, composer and music producer :musical_keyboard: :headphones:
 
 - Into photography :camera:
