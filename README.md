@@ -7,6 +7,7 @@
 - Classical musician, pianist, composer and music producer :musical_keyboard: :headphones:
 
 - Into photography :camera:
+- Love learning languages: PT - EN - ES - HE
 - Play some Chess on my spare time: 👑
 - Poker: Texas Hold'em: ♠️
 - Love video-games, currently playing FFXIV when I'm not working or coding :smiley:
