@@ -12,6 +12,7 @@
 - Poker: Texas Hold'em: ♠️
 - Love video-games, currently playing FFXIV when I'm not working or coding :smiley:
 
+<br />
 #### Languages and Tools:
 
 <p align="left">
@@ -23,7 +24,7 @@
  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" height="30" style="vertical-align:top; margin:6px">
  
 </p>
-
+<br />
 #### GitHub Stats:
 
 [![Daniel Avzaradel's github stats](https://github-readme-stats.vercel.app/api?username=daniel-avzaradel&show_icons=true&theme=slateorange)](https://github.com/daniel-avzaradel/github-readme-stats)
