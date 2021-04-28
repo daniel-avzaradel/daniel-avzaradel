@@ -11,6 +11,7 @@
 - Play some Chess on my spare time: 👑
 - Poker: Texas Hold'em: ♠️
 - Love video-games, currently playing FFXIV when I'm not working or coding :smiley:
+<br/>
 
 
 #### Languages and Tools:
@@ -22,7 +23,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="30" style="vertical-align:top; margin:6px">
  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="30" style="vertical-align:top; margin:6px">
  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" height="30" style="vertical-align:top; margin:6px">
- 
+<br/>
 </p>
 
 #### GitHub Stats:
