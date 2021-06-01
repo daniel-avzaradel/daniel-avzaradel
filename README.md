@@ -3,6 +3,7 @@
 #### About me:
 
 - New to web-development and programming technologies.
+- Developers Institute JavaScrtip Full Stack Developer Bootcamp Student.
 - Born in Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png" width="20" height="14">, currently living in Israel. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1100px-Flag_of_Israel.svg.png" width="20" height="15">
 - Classical musician, pianist, composer and music producer :musical_keyboard: :headphones:
 
