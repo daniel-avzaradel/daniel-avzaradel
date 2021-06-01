@@ -1,6 +1,6 @@
-#### Hi, I'm Daniel Avzaradel 👋
+### Hi, I'm Daniel Avzaradel 👋
 
-#### About me:
+### About me:
 
 - New to web-development and programming technologies.
 - Developers Institute JavaScrtip Full Stack Developer Bootcamp Student.
@@ -12,7 +12,7 @@
 
 <br/>
 
-#### Languages and Tools:
+### Languages and Tools:
 <br/>
 <p align="left">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="30" style="vertical-align:top; margin:6px" style="horizontal-align:right; margin-right:10px">
@@ -28,6 +28,6 @@
 
 </p>
 
-#### GitHub Stats:
+### GitHub Stats:
 
 [![Daniel Avzaradel's github stats](https://github-readme-stats.vercel.app/api?username=daniel-avzaradel&show_icons=true&theme=slateorange)](https://github.com/daniel-avzaradel/github-readme-stats)
