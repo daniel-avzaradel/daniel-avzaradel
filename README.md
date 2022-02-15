@@ -26,7 +26,6 @@
  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Sass" height="30" style="vertical-align:top; margin:6px">
  <img align="left" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" alt="Sass" height="30" style="vertical-align:top; margin:6px">
  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Sass" height="30" style="vertical-align:top; margin:6px">
- <img align="left" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" alt="Sass" height="30" style="vertical-align:top; margin:6px">
  
 <br/><br/>
 
